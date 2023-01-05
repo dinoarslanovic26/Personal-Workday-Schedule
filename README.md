@@ -1,4 +1,4 @@
-# 05 Third-Party APIs: Work Day Scheduler
+# Personal Daily Planner
 
 In here, you are able to set a hourly planner that saves your tasks even when you close out of the window. Every hour the planner changes to be color coded in what is the past, present, and future.
 
